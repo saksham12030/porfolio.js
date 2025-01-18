@@ -2,7 +2,7 @@
 import React from 'react'
 import Link from "next/link";
 import {useState} from "react";
-import Image from "next/Image";
+import Image from "next/image";
 import GithubIcon from "../../../public/github-icon.svg";
 import LinkedinIcon from "../../../public/linkedin-icon.svg";
 const EmailSection = () => {
