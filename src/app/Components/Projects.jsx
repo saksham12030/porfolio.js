@@ -34,7 +34,7 @@ const Projects = () => {
     {
       id: 3,
       title: "Mail Sender",
-      description: "Project 3 description",
+      description: "Mail Sending Application using Reactjs and Firebase",
       image: "/projects/3.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/saksham12030/Gmail-clone",
@@ -43,7 +43,7 @@ const Projects = () => {
     {
       id: 4,
       title: "Youtube Clone Application",
-      description: "Project 4 description",
+      description: "Youtube Clone Application created using Reactjs and YOUTUBE API",
       image: "/projects/4.png",
       tag: ["All", "Mobile"],
       gitUrl: "https://github.com/saksham12030/Youtube-cln",
@@ -52,7 +52,7 @@ const Projects = () => {
     {
       id: 5,
       title: "RealTime News Update",
-      description: "Authentication and CRUD operations",
+      description: "A full Fledge News Application using Reactjs and News API",
       image: "/projects/5.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/saksham12030/gitnewapi",
@@ -61,7 +61,7 @@ const Projects = () => {
     {
       id: 6,
       title: "Doc Mini Project",
-      description: "Project 5 description",
+      description: "A Mini Project on Document Management System using Reactjs and Framer Motion",
       image: "/projects/6.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/saksham12030/docs-project",
@@ -79,7 +79,7 @@ const Projects = () => {
     {
       id: 8,
       title: "Card Application",
-      description: "Todo Application using Typescript",
+      description: "Todo Application using Nodejs and Expressjs and Ejs template Engine",
       image: "/projects/8.png",
       tag: ["All", "Web"],
       gitUrl: "https://github.com/saksham12030/Pinterest-Auth",
