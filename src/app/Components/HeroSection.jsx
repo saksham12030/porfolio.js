@@ -37,8 +37,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base mb-6 sm:text-lg lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut,
-            voluptas neque!
+            Full-Stack MERN Developer | Tech Enthusiast | Passionate about Web Development &
+            Innovative Solutions
           </p>
           <div>
             <button className="px-6  py-3 w-full sm:w-fit rounded-full mr-3 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">

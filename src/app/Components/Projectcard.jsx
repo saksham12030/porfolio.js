@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from "next/Link"
+import Link from "next/link";
 import {CodeBracketIcon, EyeIcon} from "@heroicons/react/24/outline"
 const Projectcard = ({imgurl,title,description,giturl,previewurl}) => {
   return (

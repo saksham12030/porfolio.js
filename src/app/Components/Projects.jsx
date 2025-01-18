@@ -74,18 +74,15 @@ const Projects = () => {
   const filtereddata=
     projectsData.filter((project)=>project.tag.includes(tag))
   return (
-    <section ref={ref}>
+    <section ref={ref} id="projects">
       <h2 className="text-white text-center text-4xl mb-4 font-bold">
         My Projects
       </h2>
       <div className="text-white flex flex-row justify-center items-center gap-2 py-6">
         <ProjectTag onclick={handletag} name="All" isselected={tag === "All"} />
         <ProjectTag onclick={handletag} name="Web" isselected={tag === "Web"} />
-        <ProjectTag
-          onclick={handletag}
-          name="Mobile"
-          isselected={tag === "Mobile"}
-        />
+
+      
       </div>
       <div className="grid md:grid-cols-3 gap-8 md:gap-12">
         {filtereddata.map((project,index) => (
